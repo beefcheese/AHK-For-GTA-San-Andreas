@@ -1,0 +1,18 @@
+<h2>Setting Up:</h2>
+<ol>
+	<li>Go to <b>Controller Settings</b> and click <b>Restore Defaults.</b></li>
+	<li>Change input controls to use Gamepad instead of Mouse + Keyboard</li>
+	<li>Manually change all the foot controls so that the Left Trigger is Aim and Right Trigger is Fire. No other
+		joystick buttons should be assigned.</li>
+	<li>Use backspace to remove all keybindings for Sprint and then bind <b>j</b> to be the Sprint button.</li>
+	<li>Manually change all the vehicle controls so that Left Trigger is Brake/Reverse and Right Trigger is Accelerate.
+		No other joystick buttons should be assigned.</li>
+	<li>Use backspace to remove all keybindings for Handbrake and then bind <b>Space</b> to be the Handbrake button.</li>
+</ol>
+<h2>Using the Controls:</h2>
+<p>There are two different modes. <b>Bicycle Mode</b> and <b>Driving Mode</b>. By default, you start in driving mode.
+	To change which mode you are using, hold the Right Bumper and then quickly press and release the A button. In <b>Driving
+	Mode</b>, the A button is Handbrake. In <b>Bicycle Mode</b>, the A button is Accelerate.</p>
+<h2>Trouble Shooting:</h2>
+<p>If you run San Andreas in a way that requires the game to run as an administrator, e.g. In windows compatability mode,
+	you must also run the AutoHotKey script as an administrator.</p>
